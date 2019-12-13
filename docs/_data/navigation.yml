@@ -1,0 +1,15 @@
+main:
+
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Research"
+    url: /research/
+  - title: "Posts"
+    url: /posts/
+  - title: "About"
+    url: /about/
+  - title: "Categories"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
+
