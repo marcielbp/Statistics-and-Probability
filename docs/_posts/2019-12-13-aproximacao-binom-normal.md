@@ -25,6 +25,7 @@ toc_sticky: true
 Anteriormente, estabelecemos uma metodologia para determinar a probabilidade de intervalos de uma distribuição normal arbitrária, fazendo sua normalização em torno da média e da variância. A variável aleatória da distribuição normal padrão é definida como:
 $$z=\left(\frac{x-\mu}{\sigma}\right)$$ 
 O valor de referência é consultado em uma tabela da distribuição cumulativa da normal padrão, como segue abaixo:
+
 |x|0|0,01|0,02|0,03|0,04|0,05|0,06|0,07|0,08|0,09|
 |--|--|--|--|--|--|--|--|--|--|--|
 |0,0|0,5000|0,5040|0,5080|0,5120|0,5160|0,5199|0,5239|0,5279|0,5319|0,5359|
