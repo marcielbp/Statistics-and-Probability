@@ -1,10 +1,12 @@
----
-author:
-- Fernando de Pol Mayer
-title: Introdução à Estatística e conceitos de amostragem
----
-
-=4
+<script>
+  MathJax = {
+    tex: {inlineMath: [['$', '$'], ['\\(', '\\)']]}
+  };
+  </script>
+  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+  
+   <script src="https://cdn.jsdelivr.net/npm/mermaid@8.4.0/dist/mermaid.min.js"></script>
+ <script>mermaid.initialize({startOnLoad:true});</script>
 
 [Plano de aula]{}
 
