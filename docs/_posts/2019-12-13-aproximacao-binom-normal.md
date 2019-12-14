@@ -109,7 +109,7 @@ print(prob)
 
 Em uma distribuição binomial, existem n ensaios de Bernoulli independentes, com probabilidade de sucesso $p$;
 $X$ é o número de sucessos observados nos $n$ ensaios, portanto $X$ obedece a uma distribuição binomial;
-Lembrando que, para uma distribuição Binomial: $E\left\{X\right\} = np$ e $VAR\left\{X\right\} = np(1-p)$  e a probabilidade de $k$ sucessos em $n$ tentativas é dada pela expressão:
+Lembrando que, para uma distribuição Binomial: $E\{X\} = np$ e $VAR\{X\} = np(1-p)$  e a probabilidade de $k$ sucessos em $n$ tentativas é dada pela expressão:
 $$P(X=k) = \binom{n}{k}p^k(1-p)^{(n-k)}$$
 
 Em `python`, encontramos o valor da probabilidade desejada utilizando o método `binom.cdf(x, n, p)`, da classe `stats` da biblioteca `scipy`. Por exemplo, para calcularmos a probabilidade de 2 sucessos em 10 tentativas, sabendo a probabilidade de sucesso é de $p = 0,25$, utilizamos o código a seguir:
@@ -242,7 +242,7 @@ A distribuição de Poisson é desenvolvida quando se considera o número de ten
 $$
 P(X) = \frac{e^{-\lambda} \lambda^x}{x!}
 $$
-Os parâmetros da distribuição de Poisson são: $E\left\{X\right\} = VAR\left\{X\right\} = \lambda$  
+Os parâmetros da distribuição de Poisson são: $E\{X\} = VAR\{X\} = \lambda$  
 
 Utiliza-se o mesmo fator de correção de continuidade utilizado na distribuição Binomial deve ser utilizado na aproximação de Poisson. Por sua vez, a aproximação se torna boa quando $\lambda > 5$.
 ### Exemplo 3
