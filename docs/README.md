@@ -4,3 +4,7 @@ Repo with public website of CRT0029 Course - Probabilidade e Estatística (Stati
 
 Pages: [markdown](https://www.markdownguide.org/getting-started)
 Codes: [Python](https://www.python.org/)
+
+## Useful Links:
+* [Pandoc](https://pandoc.org/demos.html)
+* 
