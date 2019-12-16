@@ -1,6 +1,4 @@
 main:
-  - title: "Aulas"
-    url: /aulas/
   - title: "Aulas Teoricas"
     url: /aulas-teoricas/
   - title: "Praticas"
