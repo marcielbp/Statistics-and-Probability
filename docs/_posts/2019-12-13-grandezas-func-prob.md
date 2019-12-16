@@ -1,7 +1,6 @@
 ---
 title: "Grandezas Função de Probabilidade"
 date: 2019-12-13T21:10:30-03:00
-classes: wide
 author_profile: false
 categories:
   - probabilidade
