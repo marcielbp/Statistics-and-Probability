@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
  CRT0028 - Statistics and Probability on GitHub Pages
 twitter_username: marcielbp
 github_username: marcielbp
-minimal_mistakes_skin: air
+minimal_mistakes_skin: contrast
 logo: "/assets/images/88x88.png"
 search: true
 
