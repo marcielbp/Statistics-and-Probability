@@ -1,11 +1,23 @@
 ---
-author:
-- Fernando de Pol Mayer
-title: Medidas resumo
+title: "Medidas Estatísticas"
+date: 2019-12-16T08:20:00-03:00
+categories:
+  - aulas
+tags:
+  - estatstica
+  - probabilidade
 ---
 
-=4
 
+<script>
+  MathJax = {
+    tex: {inlineMath: [['$', '$'], ['\\(', '\\)']]}
+  };
+  </script>
+  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+  
+   <script src="https://cdn.jsdelivr.net/npm/mermaid@8.4.0/dist/mermaid.min.js"></script>
+ <script>mermaid.initialize({startOnLoad:true});</script>
 [Plano de aula]{}
 
 Introdução
