@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Marciel Barros
+title: Statistics and Probability
 email: marciel@crateus.ufc.br
 description: >- # this means to ignore newlines until "baseurl:"
-  Marciel Barros Pereira on GitHub Pages
+ CRT0028 - Statistics and Probability on GitHub Pages
 twitter_username: marcielbp
 github_username: marcielbp
 minimal_mistakes_skin: air
