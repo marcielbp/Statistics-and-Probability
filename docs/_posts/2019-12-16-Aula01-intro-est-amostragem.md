@@ -1,6 +1,8 @@
 ---
 title: "Introdução à Estatística"
 date: 2019-12-16T07:45:30-03:00
+classes: wide
+author_profile: false
 categories:
   - aulas
 tags:
