@@ -105,8 +105,14 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _aulas
+  - scope:
+      path: "_aulas"
+      type: aulas
+    values:
+      layout: single
+      author_profile: true
       
-
 category_archive:
   type: liquid
   path: /categories/
