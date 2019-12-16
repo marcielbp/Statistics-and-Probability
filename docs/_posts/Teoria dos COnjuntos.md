@@ -4,8 +4,7 @@ Teoria dos Conjuntos
 Conceitos Básicos
 -----------------
 
-[Representações de Conjuntos e Elementos]{}
-
+##Representações de Conjuntos e Elementos
 -   Um [**conjunto**]{} é uma coleção de objetos;
 
 -   Descrição dos elementos:\
@@ -29,8 +28,7 @@ Conceitos Básicos
     at (0,1) [$4$]{}; at (0,-1) [$6$]{}; at (2,2) [$D$]{}; at (2.3,-1.7)
     [$B=D$]{};
 
-[Operações com conjuntos]{}
-
+##Operações com conjuntos
 -   União $\cup$, adição, operação **OU**: $A + B = A \cup B$ elementos
     pertencem a $A$ **OU** a $B$ **OU** a ambos;
 
@@ -41,8 +39,7 @@ Conceitos Básicos
 
  
 
-[Operações com conjuntos]{}
-
+##Operações com conjuntos
 -   Diferença: $A - B$ elementos que pertencem a $A$ *exceto* os que
     pertencem a $B$;
 
@@ -50,8 +47,7 @@ Conceitos Básicos
 
  
 
-[Operações com conjuntos]{}
-
+##Operações com conjuntos
 -   Complementar: $\overline{A} = A^{C} = S - A$ todos os elementos de
     $S$ *exceto* os que pertecem a $A$;
 
@@ -59,8 +55,7 @@ Conceitos Básicos
 
  
 
-[Operações com conjuntos]{}
-
+##Operações com conjuntos
 -   União $\cup$, adição, operação **OU**: $A + B = A \cup B$ elementos
     pertencem a $A$ **OU** a $B$ **OU** a ambos;
 
@@ -71,8 +66,7 @@ Conceitos Básicos
 
  
 
-[Exemplo]{}
-
+##Exemplo
 -   $A = \left\{1,2,3,5,6,7\right\}$
 
 -   $B = \left\{4,5,6,7\right\}$
@@ -95,8 +89,7 @@ Conceitos Básicos
 
  
 
-[Propriedades]{}
-
+##Propriedades
   ------------------- --------------------------------------------------
   Comutativa          $A \cup B = B \cup A$
                       $A \cap B = B \cap A$
@@ -110,8 +103,7 @@ Conceitos Básicos
                       $A - (B \cap C) = (A - B) \cup (A - C)$
   ------------------- --------------------------------------------------
 
-[Propriedades]{}
-
+##Propriedades
   Teoria dos Conjuntos      Probabilidade                                            Simbologia
   ------------------------- ------------------------------------------------ --------------------------
   Conjunto Universo         Espaço Amostral (evento certo)                              $S$
@@ -147,7 +139,7 @@ escolher uma vestimenta, nestas condições.
 
  
 
-![image](fig/JUNTOS2.png)
+![image](https://raw.githubusercontent.com/marcielbp/Statistics-and-Probability/master/docs/_posts/fig/JUNTOS2.png)
 
 [Permutações]{} São sequências ordenadas de $n$ objetos retirados sem
 reposição de um conjunto de $n$ elementos. Cada sequência é obtida após
@@ -173,7 +165,7 @@ $P_4 = 4! = 24$ formas diferentes.
 
  
 
-![image](fig/permutation2.jpg){width="\linewidth"}
+![image](https://raw.githubusercontent.com/marcielbp/Statistics-and-Probability/master/docs/_posts/fig/permutation2.jpg){width="\linewidth"}
 
 [Permutações de subconjuntos – Arranjos]{} São sequências ordenadas de
 $k$ objetos retirados sem reposição de um conjunto de $n$ elementos, tal
@@ -198,10 +190,9 @@ $\displaystyle A_3^5 = \frac{5!}{2!} = 60$ formas diferentes.
 
  
 
-![image](fig/permutation2.jpg){width="\linewidth"}
+![image](https://raw.githubusercontent.com/marcielbp/Statistics-and-Probability/master/docs/_posts/fig/permutation2.jpg){width="\linewidth"}
 
-[Permutações de elementos similares]{}
-
+##Permutações de elementos similares
 -   São conjuntos de n objetos de $k$ tipos diferentes $(k \le n)$, onde
     os [**elementos do mesmo tipo são indistintos**]{}, e dentre os
     quais temos $n_1$ objetos do tipo 1, $n_2$ objetos do tipo
@@ -233,8 +224,7 @@ qualquer ordem, de quantas maneiras diferentes o processamento pode ser
 realizado?\
 $\displaystyle N = \frac{9!}{4!3!2!} = 1260$ formas diferentes.
 
-[Combinações]{}
-
+##Combinações
 -   Subconjuntos de $k$ objetos, [**tomados em qualquer ordem**]{},
     retirados sem reposição de um conjunto de $n$ elementos, sendo
     $k \le n$;
@@ -260,4 +250,4 @@ maneiras.
 
  
 
-![image](fig/combination1.jpg){width="0.7\linewidth"}
+![image](https://raw.githubusercontent.com/marcielbp/Statistics-and-Probability/master/docs/_posts/fig/combination1.jpg){width="0.7\linewidth"}
