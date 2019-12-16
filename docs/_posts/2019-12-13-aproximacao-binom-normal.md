@@ -1,7 +1,6 @@
 ---
 title: "Aproximação Binomial pela Normal"
 date: 2019-12-13T21:20:30-03:00
-classes: wide
 author_profile: false
 categories:
   - probabilidade
