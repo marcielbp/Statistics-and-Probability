@@ -1,6 +1,8 @@
 ---
 title: "Medidas Estatísticas"
 date: 2019-12-16T08:20:00-03:00
+classes: wide
+author_profile: false
 categories:
   - aulas
 tags:
