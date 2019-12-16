@@ -19,6 +19,9 @@ toc: true
   
  <script src="https://cdn.jsdelivr.net/npm/mermaid@8.4.0/dist/mermaid.min.js"></script>
  <script>mermaid.initialize({startOnLoad:true});</script>
+ 
+ <link rel="stylesheet" type="text/css" href="http://tikzjax.com/v1/fonts.css">
+<script src="http://tikzjax.com/v1/tikzjax.js"></script>
 
 
 Probabilidade Condicionada
@@ -30,7 +33,11 @@ Assumindo que $P(A),P(B) \neq 0$, tem-se:
 $$P (B|A) = \frac{P(A\cap B)}{P(A)}$$
 $$P (A|B) = \frac{P(A\cap B)}{P(B)}$$
 
- 
+ <script type="text/tikz">
+  \begin{tikzpicture}
+    \draw (0,0) circle (1in);
+  \end{tikzpicture}
+</script>
 
 Probabilidade Conjunta $$P (A \cap B) = P(B|A)P(A) = P(A|B)P(B)$$
 
