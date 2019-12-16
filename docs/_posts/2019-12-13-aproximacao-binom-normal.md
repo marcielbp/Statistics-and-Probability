@@ -8,7 +8,6 @@ tags:
   - python
   - funcao-probabilidade
 toc: true
-toc_sticky: true
 ---
 
 <script>
