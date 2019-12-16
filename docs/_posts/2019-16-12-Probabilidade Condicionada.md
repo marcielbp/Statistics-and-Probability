@@ -35,7 +35,9 @@ $$P (A|B) = \frac{P(A\cap B)}{P(B)}$$
 
  <script type="text/tikz">
   \begin{tikzpicture}
-    \draw (0,0) circle (1in);
+  			\draw (0,0) rectangle (6,4) node[left=0.3cm,anchor=north]{$S$};
+			\draw[fill=green!50!white] (3,2) circle (1.6cm) node at (4.25,0.5){$A$};
+			\draw[fill=red!50!white] (3,2) circle (1cm) node[above=0.1cm,anchor=south]{$B$};
   \end{tikzpicture}
 </script>
 
