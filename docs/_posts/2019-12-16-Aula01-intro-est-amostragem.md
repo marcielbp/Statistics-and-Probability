@@ -6,10 +6,9 @@ categories:
 tags:
   - estatstica
   - probabilidade
-  toc: true
-  toc_sticky: true
+toc: true
+toc_sticky: true
 ---
-
 
 <script>
   MathJax = {
