@@ -1,3 +1,26 @@
+---
+title: "Probabilidade Condicionada"
+date: 2019-12-16T11:00:00-03:00
+author_profile: false
+categories:
+  - aulas
+tags:
+  - estatstica
+  - probabilidade
+toc: true
+---
+
+<script>
+  MathJax = {
+  tex: {inlineMath: [['$', '$'], ['\\(', '\\)']]}
+  };
+  </script>
+  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+  
+ <script src="https://cdn.jsdelivr.net/npm/mermaid@8.4.0/dist/mermaid.min.js"></script>
+ <script>mermaid.initialize({startOnLoad:true});</script>
+
+
 Probabilidade Condicionada
 ==========================
 
