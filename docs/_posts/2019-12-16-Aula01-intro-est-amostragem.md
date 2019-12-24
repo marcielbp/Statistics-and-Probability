@@ -16,117 +16,79 @@ toc: true
  };
  </script>
  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
- 
+
  <script src="https://cdn.jsdelivr.net/npm/mermaid@8.4.0/dist/mermaid.min.js"></script>
  <script>mermaid.initialize({startOnLoad:true});</script>
 
- Estatística
-===========
+# Estatística
 
-O que é Estatística?
---------------------
+## O que é Estatística?
+
 
  - Etimologia da palavra: do latim *status* $\Rightarrow$ estado
-
 - Origem: coleta e apresentação de dados de interesse do Estado
-
  - Informações sobre populações e riquezas
 
  - Fins militares e tributários
 
-- Conjunto de métodos especialmente apropriado ao tratamento de dados
- numéricos, afetados por uma multiplicidade de causas
+- Conjunto de métodos especialmente apropriado ao tratamento de dados numéricos, afetados por uma multiplicidade de causas
 
-- Estes métodos **fazem uso** da Matemática, e especialmente do
- cálculo de **probabilidades**
+- Estes métodos **fazem uso** da Matemática, e especialmente do cálculo de **probabilidades**
 
- - Confúcio relatou levantamentos feitos na China há mais de 2000 anos
- AC
+ - Confúcio relatou levantamentos feitos na China há mais de 2000 anos AC
 
-- No Egito antigo, os faraós fizeram uso sistemático de informações de
- caráter estatístico
+- No Egito antigo, os faraós fizeram uso sistemático de informações de caráter estatístico
 
-- O mesmo aconteceu com antigas civilizações como Maias, Astecas e
- Incas
+- O mesmo aconteceu com antigas civilizações como Maias, Astecas e Incas
 
-- Imperadores faziam levantamentos de suas propriedades conquistadas
- (imperadores romanos, Carlos Magno, Guilherme, o Conquistador) para
- se inteirar de suas riquezas
+- Imperadores faziam levantamentos de suas propriedades conquistadas (imperadores romanos, Carlos Magno, Guilherme, o Conquistador) para se inteirar de suas riquezas
 
-- Essa prática tem sido continuada nos tempos modernos, por meio de
- recenseamentos, como aqueles feitos pelo IBGE no Brasil
+- Essa prática tem sido continuada nos tempos modernos, por meio de recenseamentos, como aqueles feitos pelo IBGE no Brasil
 
 [O que é Estatística?]{} Como Ciência
 
 - Permite organizar, descrever, analisar, e interpretar dados
 
-- Utiliza-se da **Teoria da Probabilidade** para modelar a
- aleatoriedade e a incerteza associada aos fenômenos naturais,
- econômicos, sociais, …
+- Utiliza-se da **Teoria da Probabilidade** para modelar a aleatoriedade e a incerteza associada aos fenômenos naturais, econômicos, sociais, …
 
-- Auxilia a tirar **conclusões** sobre as características das fontes
- de onde os dados foram retirados, para melhor compreende-los
+- Auxilia a tirar **conclusões** sobre as características das fontes de onde os dados foram retirados, para melhor compreende-los
 
-- Indispensável para a **tomada de decisões** sob condições de
- *incerteza*, sob o menor **risco** possível
+- Indispensável para a **tomada de decisões** sob condições de *incerteza*, sob o menor **risco** possível
 
 [O que é Estatística?]{} Como tecnologia
 
-- Permite avaliar as incertezas e os seus efeitos no planejamento e
- interpretação de experiências e de observações de fenômenos da
- natureza e da sociedade
+- Permite avaliar as incertezas e os seus efeitos no planejamento e interpretação de experiências e de observações de fenômenos da natureza e da sociedade
 
-- Permite analisar e tirar conclusões de uma grande quantidade de
- informações
+- Permite analisar e tirar conclusões de uma grande quantidade de informações
 
-- A estatística tem sido utilizada para
-
+A estatística tem sido utilizada para:
  - Otimização de recursos econômicos
-
  - Aumento da qualidade e produtividade
-
  - Análise de decisões judiciais
+ - Previsões (climáticas, econômicas, ...)
 
- - Previsões (climáticas, econômicas, …)
+## Por que estudar Estatística?
 
-Por que estudar Estatística?
-----------------------------
+- Impossibilidade de estudar a população
+- Aumento da capacidade de registro de dados que precisam ser compreendidos
+- Expansão do conhecimento científico, das áreas de pesquisa e dos instrumentos de investigação
+- Necessidade de compreensão dos fenômenos naturais e sociais, de otimização de recursos, planejamento de atividades, redução de riscos, de previsão de resultados para correta tomada de decisão
 
- - Impossibilidade de estudar a população
+[Por que estudar Estatística?]{} A Estatística pode ser pensada como a **ciência de aprendizagem a partir dos dados**
+ 
+Vivemos na “*era da informação*”, e a Estatística possui as ferramentas necessárias para melhor compreender a **informação**
 
-- Aumento da capacidade de registro de dados que precisam ser
- compreendidos
+## Estatística e o uso de computadores
 
-- Expansão do conhecimento científico, das áreas de pesquisa e dos
- instrumentos de investigação
+[Estatística e o uso de computadores]{} No passado, tratar um grande conjunto de dados era uma tarefa trabalhosa e cansativa
+ 
+Com o avanço da tecnologia, os cálculos se tornaram rápidos e mecânicos, possibilitando a analise de um volume grande de informações em pouco tempo
 
-- Necessidade de compreensão dos fenômenos naturais e sociais, de
- otimização de recursos, planejamento de atividades, redução de
- riscos, de previsão de resultados para correta tomada de decisão
-
-[Por que estudar Estatística?]{} A Estatística pode ser pensada como a
-**ciência de aprendizagem a partir dos dados**\
- \
-Vivemos na “*era da informação*”, e a Estatística possui as ferramentas
-necessárias para melhor compreender a **informação**
-
-Estatística e o uso de computadores
------------------------------------
-
-[Estatística e o uso de computadores]{} No passado, tratar um grande
-conjunto de dados era uma tarefa trabalhosa e cansativa\
- \
-Com o avanço da tecnologia, os cálculos se tornaram rápidos e mecânicos,
-possibilitando a analise de um volume grande de informações em pouco
-tempo\
- \
 No entanto, é necessário *conhecer* e *compreender* os conceitos básicos
 de Estatística para que possamos utiliza-la de forma adequada
 
-Áreas da Estatística
---------------------
+## Áreas da Estatística
 
- ![image](../img/organograma_estatistica.png){width="100.00000%"}
 
 [Áreas da Estatística]{} **Estatística Descritiva**: etapa inicial de
 qualquer análise. É um conjunto de técnicas destinadas a descrever e
