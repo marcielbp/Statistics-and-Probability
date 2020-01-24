@@ -7,8 +7,5 @@ main:
     url: /listas/
   - title: "Sobre"
     url: /about/
-  - title: "Categorias"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-
+  - title: "Minicurso de Python"
+    url: /python-Minicurso/
