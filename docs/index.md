@@ -4,5 +4,12 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 author_profile: true
+title: Probabilidade e Estatística 2020.1 - CRT0029
 ---
-# Probabilidade e Estatística 2020.1 - CRT0029
+Bem vindos à página da disciplina de Probabilidade e Estatística 2020.1 - CRT0029.
+
+Planejamento:
+
+## Aula 00
+
+## Aula 01
