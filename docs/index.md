@@ -5,4 +5,4 @@
 layout: home
 author_profile: true
 ---
- TESTE
+# Probabilidade e Estatística 2020.1 - CRT0029
