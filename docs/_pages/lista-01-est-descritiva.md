@@ -18,6 +18,7 @@ title: "Lista 01 - Estatística Descritiva"
   * Área B: `12.5 18.5 21.3 14.3 18.5 19.0 10.8 23.1 17.4 10.7 14.3 16.3 18.0 7.1 12.8 14.7 11.3 8.2 13.8`
   * Área C: `21.3 28.7 15.8 24.0 13.7 18.1 12.6 14.6 6.1 19.8 22.3 15.7 16.3 18.2 15.7 6.6 9.3 1.3 19.0`
   * Área D: `13.7 8.6 14.9 10.2 14.0 10.5 15.0 5.2 10.0 11.7 18.7 9.3 7.9 6.5 11.5 12.0 8.3 8.3 9.8 4.7`
+
 ----
 2. Identifique cada uma das variáveis seguintes como quantitativa, qualitativa e como contínua, discreta, nominal, ordinal.
 * A concentração de impurezas em uma amostra de leite, em mg por litro.
@@ -31,12 +32,14 @@ title: "Lista 01 - Estatística Descritiva"
 * O número de moradores em cada residência de uma cidade.
 * A temperatura de certa região, em determinada época do ano.
 * A produção por hectare de determinado tipo de grão.
-----
+
+
 3. Os dados listados a seguir representam o número de assaltos sofridos pelas 20 padarias de um bairro no último ano.
 > 1   3   5   3   2   0   1   2   6  3  4   2   1   4   6   11   9   10   18   4
 *  Calcule a média e mediana dos dados. Discuta a diferença entre elas.
 *  Calcule a variância e desvio padrão. Os dados possuem alta variabilidade?
 *  Faça a representação em *box-plot* da série.
+
 ----
 4. Os dados a seguir equivalem às temperaturas de efluentes descarregados de uma estação de tratamento em dias consecutivos:
 > 43   45   49   47   52   45   51   46   44   48   51   50
