@@ -2,7 +2,13 @@
 permalink: /listas/lista-01-est-descritiva/
 title: "Lista 01 - Estatística Descritiva"
 ---
-
+<script>
+  MathJax = {
+    tex: {inlineMath: [['$', '$'], ['\\(', '\\)']]}
+  };
+  </script>
+  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+  
 ## Probabilidade e Estatística 2020.1 - CRT0029
 ### Lista 01 - Estatística Descritiva
 
