@@ -17,3 +17,6 @@ Check this project [https://github.com/punisher077/beijo-de-moca](https://github
 [Tableau for Teachers](https://www.tableau.com/academic)
 
 [Introdução ao Python](https://emanueles.github.io/intro-python/) by @emanueles
+
+
+[Geojson Estados](https://github.com/tbrugz/geodata-br)
