@@ -26,4 +26,4 @@ toc: true
 
 ## CheatSheets de Python
 
- Pandas: [Link 1](/assets/pandas.pdf) e [Link 2]()
+ Pandas: [Link 1](https://github.com/marcielbp/Statistics-and-Probability/raw/master/docs/assets/pandas.pdf) e [Link 2](https://github.com/marcielbp/Statistics-and-Probability/raw/master/docs/assets/pandas_basics.pdf)
