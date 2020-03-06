@@ -5,6 +5,8 @@ title: "Aulas Práticas"
 
 | Prática | Título |
 | :---: | :--- |
+| [Prática 00](https://github.com/marcielbp/Statistics-and-Probability/blob/master/python/notebooks/praticas/pr00.ipynb) | Introdução ao Python |
+| [Prática 00 - Parte 2](https://github.com/marcielbp/Statistics-and-Probability/blob/master/python/notebooks/praticas/aula-2-numpy.ipynb) | Numpy |
 | [Prática 01](https://github.com/marcielbp/Statistics-and-Probability/blob/master/python/notebooks/praticas/pr01.ipynb) | Visualização Numérica de dados em Python usando Numpy e Scipy |
 | [Prática 02](https://github.com/marcielbp/Statistics-and-Probability/blob/master/python/notebooks/praticas/pr02.ipynb) e [Prática 02 - Parte 2](https://github.com/marcielbp/Statistics-and-Probability/blob/master/python/notebooks/praticas/pr02_2.ipynb)  | Métodos de visualização gráfica em Python usando Matplotlib e Plotly |
 | [Prática 03](https://github.com/marcielbp/Statistics-and-Probability/blob/master/python/notebooks/praticas/pr03.ipynb) | Métodos de coleta de dados em Python - a biblioteca Pandas |
